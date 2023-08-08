@@ -1,0 +1,90 @@
+body {
+  font-family: Stick No Bills, serif;
+  font-size: 20px;
+}
+
+.title {
+border: 0px solid grey;
+display: flex;
+justify-content: center;
+color: lightblue;
+font-family: Stick No Bills, serif;
+font-size: 35px;
+padding: 10px;
+}
+
+.titleLink, .titleLink-visited {
+  color: lightblue;
+  text-decoration-line: none;
+}
+
+.titleLink:hover, .titleLink:active {
+  color: white;
+  text-decoration-line: none;
+}
+
+h4 {color:lightblue; display:flex;justify-content:center;}
+
+ body {
+  background-image: url('https://media.istockphoto.com/vectors/snow-seamless-pattern-white-stars-dotes-isolated-on-black-background-vector-id1175468213?k=20&m=1175468213&s=612x612&w=0&h=yEPjNYnFZoBaEq9OhIqu7j2Y_2t6Wn6pIwidJJ_vNys='); 
+ }
+   
+img {
+  height: 250px;
+  width: 350px;
+ 
+}
+
+h6 { color:white;}
+  
+   button{margin:15px;
+         padding-top:10 px; }
+  
+   
+  
+   h3 {color:white;}
+
+.radioimg{width:150px;height:210px;opacity:1;border:2px solid lightgray;}
+.springimg{width:150px;height:210px;opacity:1;border:2px solid lightgray;}
+.riotsimg{width:150px;height:210px;opacity:1;border:2px solid lightgray;}
+
+div{display:flex;justify-content: space-around;}
+
+/* .buttons{display:flex;
+        justify-content:space-around;justify-content:center;} */
+
+button:hover{cursor:pointer;}
+
+h2{color:white;display: flex; justify-content: center;}
+form{color:white}
+
+p {color:white}
+
+body{background-color:black}
+
+.stats{display:flex;justify-content: space-around;}
+.stats1{border:2px solid lightgray;border-radius: 5px; }
+.stats2{border:2px solid lightgray;border-radius: 5px;}
+
+
+
+
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: lightgray;
+}
+
+.navLink, navLink:visited {
+  color: black;
+  text-decoration-line: none;
+  padding: 5px;
+}
+
+.navLink:hover, .navLink:active {
+  color: black;
+  text-decoration-line: none;
+  background-color: gray;
+}
